@@ -1,0 +1,15 @@
+{
+  "name": "weather-forecast",
+  "displayName": "weather-forecast",
+  "expo": {
+    "name": "weather-forecast",
+    "icon": "images/icon.png",
+    "slug": "weather-forecast",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "A simple mobile app that shows weather forecast. Made to try out React Native.",
+    "githubUrl": "https://github.com/gorbunov-dmitry/weather-forecast"
+  }
+}
